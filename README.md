@@ -41,9 +41,9 @@ This project is a **bookmarklet**, so there is nothing to install.
 
 ### Option A — Create a Bookmarklet (Recommended)
 
-1. Copy the bookmarklet code from [`bookmarklet.js`](./bookmark-path-finder.js) (or from the section below).
+1. Copy the bookmarklet code from [`bookmark-path-finder.js`](https://github.com/m0442/bookmark-path-finder/blob/main/bookmark-path-finder.js) (or from the section below).
 2. Create a new bookmark in your browser.
-3. Name it (e.g., `RouteRadar`).
+3. Name it (e.g., `path-finder`).
 4. Paste the code into the bookmark URL/location field.
 5. Save.
 
