@@ -26,15 +26,6 @@ A client-side reconnaissance bookmarklet designed for security researchers and b
 
 ---
 
-## Demo (Optional)
-
-Add screenshots or a short GIF here:
-
-- `docs/demo.png`
-- `docs/demo.gif`
-
----
-
 ## Installation
 
 This project is a **bookmarklet**, so there is nothing to install.
@@ -60,7 +51,7 @@ This project is a **bookmarklet**, so there is nothing to install.
 
 1. Navigate to the target web page you are testing.
 2. Ensure the page is fully loaded.
-3. Click the bookmarklet (`RouteRadar`).
+3. Click the bookmarklet (`Bookmark-path-finder`).
 4. A dashboard will appear at the bottom of the page showing discovered paths.
 5. Use:
    - **Tabs** to filter by category (API/Assets/Imports/Other)
