@@ -92,7 +92,7 @@ TYPE    PATH    SOURCE
 api     /api/users      https://example.com/app.js
 assets  /static/logo.svg DOM/HTML
 ```
-ذ
+
 ---
 
 ## Limitations
@@ -112,6 +112,6 @@ Always follow the target program scope and rules, and comply with applicable law
 
 ---
 
-## License
+License
 
 MIT License recommended. Add a LICENSE file to your repository if you plan to publish it as open source.
