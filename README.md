@@ -1,9 +1,7 @@
-````md
 # Bookmark Path Finder
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)](#)
-[![Bookmarklet](https://img.shields.io/badge/Type-Bookmarklet-blue.svg)](#)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](#license)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow.svg)
+![Type](https://img.shields.io/badge/Type-Bookmarklet-blue.svg)
 
 A lightweight **client-side reconnaissance** bookmarklet built for **security researchers** and **bug bounty hunters**.  
 It inspects loaded web resources and the current DOM/HTML to extract referenced **relative paths**, **imports**, **assets**, and potential **API endpoints**, then presents unique results in a clean, searchable dashboard.
@@ -93,28 +91,27 @@ The **Copy** button exports results in a tab-separated format:
 TYPE    PATH    SOURCE
 api     /api/users      https://example.com/app.js
 assets  /static/logo.svg DOM/HTML
-````
-
+```
+ذ
 ---
 
 ## Limitations
 
-* Resources blocked by CORS may not be retrievable.
-* Dynamically constructed routes may not resolve to static strings.
-* Results depend on which resources were loaded during the current session.
+Resources blocked by CORS may not be retrievable.
+
+Dynamically constructed routes may not resolve to static strings.
+
+Results depend on which resources were loaded during the current session.
 
 ---
 
 ## Security & Ethics
 
-This project is intended for **authorized security testing and educational purposes**.
+This project is intended for authorized security testing and educational purposes.
 Always follow the target program scope and rules, and comply with applicable laws.
 
 ---
 
 ## License
 
-MIT License recommended. Add a `LICENSE` file to your repository if you plan to publish it as open source.
-
-```
-```
+MIT License recommended. Add a LICENSE file to your repository if you plan to publish it as open source.
